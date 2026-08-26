@@ -79,7 +79,7 @@ const ContactPage = () => {
                     </div>
                     <div>
                       <h4 className="font-bold text-gray-900 mb-1">Email Support</h4>
-                      <a href="mailto:support@onecapitalloans.com" className="text-gray-500 hover:text-primary transition-colors block mb-1">support@onecapitalloans.com</a>
+                      <a href="mailto:usa.fastloangroup@gmail.com" className="text-gray-500 hover:text-primary transition-colors block mb-1">usa.fastloangroup@gmail.com</a>
                       <p className="text-xs text-gray-400">Response usually within 24 hours</p>
                     </div>
                   </div>

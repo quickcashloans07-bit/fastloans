@@ -31,7 +31,7 @@ const Footer = () => {
                 <Mail className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" style={{ color: "hsl(86 56% 51%)" }} />
                 <div>
                   <p className="text-xs text-white/40 uppercase tracking-wider font-semibold mb-1">Email Us</p>
-                  <a href="mailto:support@onecapitalloans.com" className="text-white hover:text-accent font-semibold transition-colors">support@onecapitalloans.com</a>
+                  <a href="mailto:usa.fastloangroup@gmail.com" className="text-white hover:text-accent font-semibold transition-colors">usa.fastloangroup@gmail.com</a>
                 </div>
               </div>
               <div className="flex items-start gap-3">
