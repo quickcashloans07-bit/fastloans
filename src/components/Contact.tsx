@@ -16,7 +16,10 @@ const Contact = () => {
                 <p className="font-mono font-bold text-foreground mt-4 mb-1">Virginia Address</p>
                 <p>850 W Front St, Boise, ID 83702</p>
               </div>
-
+              <div>
+                <p className="font-mono font-bold text-foreground mb-1">Contacts</p>
+                <p>+1 (208)-269-5420</p>
+              </div>
             </div>
           </div>
 
