@@ -44,6 +44,13 @@ const Header = () => {
           <p className="text-xs text-white/80 font-medium">
             🏆 Trusted by 50,000+ borrowers across the US — Over $500M disbursed
           </p>
+          <a
+            href="tel:+12082695420"
+            className="flex items-center gap-2 text-sm font-semibold text-white hover:text-yellow-300 transition-colors"
+          >
+            <Phone className="w-3.5 h-3.5" />
+            +1 (208)-269-5420
+          </a>
         </div>
       </div>
 
@@ -131,6 +138,13 @@ const Header = () => {
                 </Button>
               </Link>
             </div>
+            <a
+              href="tel:+12082695420"
+              className="flex items-center justify-center gap-2 py-3 text-sm font-semibold text-primary"
+            >
+              <Phone className="w-4 h-4" />
+              +1 (208)-269-5420
+            </a>
           </div>
         </div>
       )}

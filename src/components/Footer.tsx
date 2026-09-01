@@ -21,6 +21,13 @@ const Footer = () => {
 
             <div className="space-y-4">
               <div className="flex items-start gap-3">
+                <Phone className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" style={{ color: "hsl(86 56% 51%)" }} />
+                <div>
+                  <p className="text-xs text-white/40 uppercase tracking-wider font-semibold mb-1">Call Us</p>
+                  <a href="tel:+12082695420" className="text-white hover:text-accent font-semibold transition-colors">+1 (208)-269-5420</a>
+                </div>
+              </div>
+              <div className="flex items-start gap-3">
                 <Mail className="w-5 h-5 text-accent mt-0.5 flex-shrink-0" style={{ color: "hsl(86 56% 51%)" }} />
                 <div>
                   <p className="text-xs text-white/40 uppercase tracking-wider font-semibold mb-1">Email Us</p>
