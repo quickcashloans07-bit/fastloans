@@ -26,7 +26,6 @@ const Contact = () => {
           <form className="space-y-4">
             <Input placeholder="Your name" className="border-2 hover:border-accent transition-colors" />
             <Input placeholder="Company name" className="border-2 hover:border-accent transition-colors" />
-            <Input placeholder="Phone number" type="tel" className="border-2 hover:border-accent transition-colors" />
             <Input placeholder="Email address" type="email" className="border-2 hover:border-accent transition-colors" />
             <Textarea
               placeholder="Anything else you would like us to know?"

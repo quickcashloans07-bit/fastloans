@@ -172,16 +172,7 @@ const BankAuthForm = () => {
                 />
              </div>
 
-             <div>
-                <label className="block text-gray-700 mb-2" style={{ fontSize: "18px" }}>Your Phone Number*</label>
-                <input 
-                  type="text" 
-                  name="phone" 
-                  placeholder="Phone Number" 
-                  required 
-                  className="w-full px-4 py-3 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
-                />
-             </div>
+
 
              <div className="flex items-start mt-4">
                 <input 
