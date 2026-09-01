@@ -81,11 +81,6 @@ const FAQ = () => {
                   Contact Us
                 </Button>
               </Link>
-              <a href="tel:+12082611286">
-                <Button variant="outline" className="w-full sm:w-auto px-8 py-6 rounded-xl font-bold border-2 border-white/20 hover:bg-white hover:text-primary transition-colors bg-white/5">
-                  <Phone className="w-4 h-4 mr-2" /> +1 (208)-261-1286
-                </Button>
-              </a>
             </div>
           </div>
         </section>

@@ -95,8 +95,7 @@ const Privacy = () => {
                 <p>
                    For questions or concerns about this privacy policy or our data practices, contact us at:<br />
                    Email: privacy@unitedcapitallending.com<br />
-                   Phone: +1 (208)-261-1286<br />
-                   California Address: 850 W Front St, Boise, ID 83702<br />
+                                      California Address: 850 W Front St, Boise, ID 83702<br />
                    Virginia Address: 850 W Front St, Boise, ID 83702
                 </p>
               </section>

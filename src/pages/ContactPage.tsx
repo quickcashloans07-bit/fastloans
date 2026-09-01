@@ -62,16 +62,7 @@ const ContactPage = () => {
                 </h3>
                 
                 <div className="space-y-8">
-                  <div className="flex items-start gap-4">
-                    <div className="p-3 bg-blue-50 rounded-2xl text-blue-600">
-                      <Phone className="w-6 h-6" />
-                    </div>
-                    <div>
-                      <h4 className="font-bold text-gray-900 mb-1">Call Us</h4>
-                      <a href="tel:+12082611286" className="text-gray-500 hover:text-primary transition-colors block mb-1">+1 (208)-261-1286</a>
-                      <p className="text-xs text-gray-400">Toll-free, Mon-Fri 8am-8pm EST</p>
-                    </div>
-                  </div>
+
 
                   <div className="flex items-start gap-4">
                     <div className="p-3 bg-emerald-50 rounded-2xl" style={{ color: "hsl(86 56% 51%)" }}>

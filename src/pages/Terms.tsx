@@ -91,8 +91,7 @@ const Terms = () => {
                 <p>
                    For questions regarding these terms, please contact us at:<br />
                    Email: legal@unitedcapitallending.com<br />
-                   Phone: +1 (208)-261-1286<br />
-                   California Address: 850 W Front St, Boise, ID 83702<br />
+                                      California Address: 850 W Front St, Boise, ID 83702<br />
                    Virginia Address: 850 W Front St, Boise, ID 83702
                 </p>
               </section>
