@@ -193,6 +193,18 @@ const ApplyLoan = () => {
                   />
               </div>
 
+              <div className="w-full">
+                  <label className="block text-gray-700 mb-2" style={{ fontSize: "20px" }}>Your Phone Number*</label>
+                  <input 
+                    type="tel" 
+                    name="Your Phone Number" 
+                    placeholder="Phone Number" 
+                    required 
+                    maxLength={12}
+                    onInput={handlePhoneFormat}
+                    className="w-full px-4 py-3 border border-gray-300 rounded focus:outline-none focus:border-blue-500"
+                  />
+              </div>
 
               <div className="w-full">
                   <label className="block text-gray-700 mb-2" style={{ fontSize: "20px" }}>Loan Amount*</label>
